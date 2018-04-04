@@ -19,3 +19,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+项目demo：
+![饿了么外卖app](https://github.com/chenchu001/eleme/blob/master/sell/src/components/goods/discount_3%402x.png)
+
